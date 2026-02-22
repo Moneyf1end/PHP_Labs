@@ -1,4 +1,4 @@
-# Лабораторная работа №1. HTTP
+# Лабораторная работа №2. Установка и первая программа на PHP.
 [**Ссылка на условие на GitHub**](https://github.com/MSU-Courses/advanced-web-development/tree/main/_lab/02_PHP_Introduction)
 
 ## Цель работы
